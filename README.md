@@ -66,5 +66,6 @@ Install dependencies using:
 ```bash
 pip install pandas scikit-learn matplotlib seaborn
 
-## Output Image
-![image](https://github.com/user-attachments/assets/b19a661b-2430-4f90-a34b-91beaf886c04)
+
+
+
