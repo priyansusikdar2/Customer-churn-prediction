@@ -67,5 +67,6 @@ Install dependencies using:
 pip install pandas scikit-learn matplotlib seaborn
 
 
+![image](https://github.com/user-attachments/assets/51e3abb9-5427-40e8-9215-e2992efcb0ac)
 
 
